@@ -181,14 +181,12 @@ Os testes foram escritos para validar operações de débito e crédito, incluin
 
 #### Testes passando:
 1. Primeira execução com sucesso
-![image](assets/primeira_execucao_com_sucesso.png)
+![image](assets/primeira_execusao_com_sucesso.png)
 
 2. Segunda execução com sucesso 
 ![image](assets/segunda_execucao_com_sucesso.png)
 
 3. Testes
-<br/> 
-
 ![image](assets/teste_1.png)
 <br/>
 
